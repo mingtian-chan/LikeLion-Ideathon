@@ -16,26 +16,25 @@
 ## What is WEITER?
 WE(B) + (WA)ITER = WEITER
 
-간단 설명
-모르는 사람이랑 엔빵하면서 직접적으로는 연결하는 장소만 제공하면 서로 믿을만한 사람인지 모르는데 그 중간다리 역할을 우리가 해주면서 신뢰감 문제를 해결해주시고 ~~~
-## UI Description
-![](이미지 링크)
+## 서비스 기획 문서
+##### [서비스 초기 기획문서](https://www.notion.so/5b966fdb11424ec8a2687c30492515fe?pvs=4)
 
-## Function Description
-![](이미지 링크)
+## 서비스 소개
+단체로 배달을 시킬 때 배달 메뉴를 종합해주고, 돈도 걷어주는 서비스.
+모르는 사람들과도 주문이 가능해, 음식을 주문하는 것의 심리적 문턱을 낮추어 서비스 이용자와 서비스 제공자 양 측에 모두 도움이 되는 서비스입니다. 
 
 ## Contributor Review
 
-- [기획 김명찬](https://github.com/ehyeok9)
+- [기획 김명찬](https://github.com/mingtian-chan)
 > 
 
-- [FE 강채연](https://github.com/ehyeok9)
+- [FE 강채연](https://github.com/rkdcodus)
 > 
 
-- [FE 김동윤](https://github.com/ehyeok9)
+- [FE 김동윤](https://github.com/zkxmdkdltm)
 >
 
-- [BE 김유진](https://github.com/ehyeok9)
+- [BE 김유진](https://github.com/yuujinkim)
 >
 
 - [BE 이혁규](https://github.com/ehyeok9)
